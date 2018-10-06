@@ -83,7 +83,7 @@ img.shoppingcart
 img.home
 {
     position: absolute;
-    left:0 px;
+    left:0px;
     top:71px;
     z-index: 1;
     
@@ -232,7 +232,7 @@ div.a2
 }
 
 
-#product1btn
+.product1btn
 {
     display: block;
     vertical-align: center;
@@ -324,7 +324,7 @@ div.a2
 
 }
 
-#prdctname
+.prdctname
 {
 font-family: AvenirNextCondensed-DemiBold;
 font-size: 20px;
