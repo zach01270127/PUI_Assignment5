@@ -45,12 +45,12 @@ img.r2
 
 img.prdctimg
 {
-        padding: 125px;
+    padding: 125px;
 }
 
 img.prdctimg2
 {
-        padding: 300px;
+    padding: 300px;
 }
 
 div.a1
@@ -97,26 +97,30 @@ nav
      z-index: 5;
     
 }
+
 a
-{margin: 24px}
+{
+    margin: 24px
+}
 
 
 a.chosen{
     font-family: AvenirNextCondensed-DemiBold;
-font-size: 24px;
-color: #000000;
-letter-spacing: 0.24px;
-text-align: left;
-text-decoration:none
+    font-size: 24px;
+    color: #000000;
+    letter-spacing: 0.24px;
+    text-align: left;
+    text-decoration:none
 }
+
 
 a.other
 {
     font-family: AvenirNextCondensed-Regular;
-font-size: 20px;
-color: #000000;
-letter-spacing: 0.2px;
-text-decoration:none
+    font-size: 20px;
+    color: #000000;
+    letter-spacing: 0.2px;
+    text-decoration:none
     
 }
 
@@ -124,56 +128,55 @@ text-decoration:none
 
 p.p1
 {
-        position: absolute;
+    position: absolute;
     left:912px;
     top:383px;
     font-family: AvenirNextCondensed-DemiBold;
-font-size: 32px;
-color: rgba(0,0,0,0.72);
-letter-spacing: 0.36px;
-text-align: center;
+    font-size: 32px;
+    color: rgba(0,0,0,0.72);
+    letter-spacing: 0.36px;
+    text-align: center;
     z-index: 5;
     
 }
 
 p.p2
 {
-        position: absolute;
+    position: absolute;
     left:984px;
     top:422px;
-font-family: AvenirNextCondensed-DemiBold;
-font-size: 36px;
-color: rgba(0,0,0,0.72);
-letter-spacing: 0.36px;
-text-align: center;
-line-height: 44px;
+    font-family: AvenirNextCondensed-DemiBold;
+    font-size: 36px;
+    color: rgba(0,0,0,0.72);
+    letter-spacing: 0.36px;
+    text-align: center;
+    line-height: 44px;
     z-index: 5;
     
 }
 
 
 p.p3{
-            position: absolute;
+    position: absolute;
     left:995px;
     top:716px;
     font-family: AvenirNextCondensed-Italic;
-font-size: 16px;
-color: #797979 ;
-letter-spacing: 0.32px;
+    font-size: 16px;
+    color: #797979 ;
+    letter-spacing: 0.32px;
     z-index: 5;
 }
 
-.button {
 
+.button 
+{
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
-
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.2s;
     cursor: pointer;
@@ -184,49 +187,51 @@ letter-spacing: 0.32px;
     letter-spacing: 0.17px;
 }
 
+
 .button1 {
-        position: absolute;
+    position: absolute;
     left:930px;
     top:638px;
     background-color: transparent; 
     color:#B55330; 
     border: 0.5px solid #AA674F;
     border-radius:48px;
-        margin: 4px 2px;
-        padding: 16px 72px;
+    margin: 4px 2px;
+    padding: 16px 72px;
 }
 
-.button1:hover {
+.button1:hover 
+{
     background-color: #B55330;
     color: white;
-border: 0.5px solid #AA674F;
+    border: 0.5px solid #AA674F;
 }
 
-.button2{
-/*
-
-*/
+.button2
+{
     background-color: transparent; 
     color:#B55330; 
     border: 0.5px solid #AA674F;
     border-radius:48px;
-        margin: 4px 2px;
-        padding: 8px 32px;
-font-family: AvenirNextCondensed-DemiBold;
-font-size: 20px;
-color: #B55330;
-letter-spacing: 0.17px;
+    margin: 4px 2px;
+    padding: 8px 32px;
+    font-family: AvenirNextCondensed-DemiBold;
+    font-size: 20px;
+    color: #B55330;
+    letter-spacing: 0.17px;
 }
 
-.button2:hover {
+
+.button2:hover 
+{
     background-color: #B55330;
     color: white;
-border: 0.5px solid #AA674F;
+    border: 0.5px solid #AA674F;
 }
 
 div.a2
 {
-                position: absolute;
+    position: absolute;
     left:230px;
     top:484px;
 }
@@ -235,8 +240,7 @@ div.a2
 .product1btn
 {
     display: block;
-    vertical-align: center;
-    
+    vertical-align: center; 
 }
 
 .product1
@@ -251,25 +255,13 @@ div.a2
     position: absolute;
     left: 236px;
     top:278px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
-
 }
+
 
 #blackberry
 {
     position: absolute;
     left: 669px;
-    top:278px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
-
 }
 
 #walnut
@@ -277,11 +269,6 @@ div.a2
     position: absolute;
     left: 1077px;
     top:278px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
 
 }
 
@@ -290,11 +277,6 @@ div.a2
     position: absolute;
     left: 236px;
     top:580px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
 
 }
 
@@ -303,11 +285,6 @@ div.a2
     position: absolute;
     left: 670px;
     top:580px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
 
 }
 
@@ -316,21 +293,16 @@ div.a2
     position: absolute;
     left: 1077px;
     top:580px;
-/*
-    outline-width: 1px;
-    outline-color: black;
-    outline: solid;
-*/
-
 }
+
 
 .prdctname
 {
-font-family: AvenirNextCondensed-DemiBold;
-font-size: 20px;
-color: #000000;
-letter-spacing: 0.2px;
-line-height: 16px;
+    font-family: AvenirNextCondensed-DemiBold;
+    font-size: 20px;
+    color: #000000;
+    letter-spacing: 0.2px;
+    line-height: 16px;
     
 }
 
@@ -347,12 +319,7 @@ line-height: 16px;
  {
 
     background-image: url("assets/background.png");
-/*
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-*/
+
 }
 
 
@@ -393,8 +360,8 @@ line-height: 16px;
     left:600px;
     top:85px;
     font-family: AvenirNextCondensed-Bold;
-font-size: 36px;
-color: rgba(0,0,0,0.71);
+    font-size: 36px;
+    color: rgba(0,0,0,0.71);
     z-index: 5;
 }
 
@@ -403,9 +370,9 @@ color: rgba(0,0,0,0.71);
     position: absolute;
     left:1020px;
     top:85px;
-   font-family: AvenirNextCondensed-Medium;
-font-size: 28px;
-color: #000000; 
+    font-family: AvenirNextCondensed-Medium;
+    font-size: 28px;
+    color: #000000; 
     z-index: 5;
 }
 
@@ -433,7 +400,7 @@ color: #000000;
 
 .choosequan
 {
-        position: absolute; 
+    position: absolute; 
     left:747px;
     top:210px;
     z-index: 5;
